@@ -270,6 +270,7 @@ font-size: 14px
     height: 30px; 
     margin-left: 50px;
     border-radius: 20px;
+    border: 1px gray solid;
 }
 
 /* sale */
