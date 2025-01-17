@@ -190,7 +190,8 @@ font-size: 14px
 }
 
 .properties-btn{
-    background-color: #2541de;
+    /* background-color: #2541de; */
+    background-color: orange;
     color: white;
     border-radius: 30px;
     width: 150px;    /* Set a fixed width */
