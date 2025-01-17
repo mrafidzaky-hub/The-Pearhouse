@@ -197,6 +197,7 @@ font-size: 14px
     width: 150px;    /* Set a fixed width */
     height: 50px; 
     border: 1px solid #2541de;
+    font-weight: bold;
 }
 
 .container-property-information{
